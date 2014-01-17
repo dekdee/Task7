@@ -14,7 +14,7 @@ public class TransactionBean {
 	private double shares;
 	private String transaction_type;
 	private double amount;
-	String first = "hello world 8";
+	String first = "hello world yujia";
 	public int getTransaction_id() {
 		return transaction_id;
 	}
